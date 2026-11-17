@@ -20,5 +20,5 @@ int count_above_k(const int *arrptr, size_t n, int k);
 // Результат записывается по указателю sum.
 int sum_below_k(const int *arrptr, size_t n, int k, long long *sum);
 
-#endif // MYARRFUNC_H
+#endif
 
